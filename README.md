@@ -1,7 +1,7 @@
 # Gender Detection with Flask
 Gender detection with AI and Flask.
 <img
-src="./2222.jpeg"
+src="./1111.jpeg"
 raw=true
 alt="Screenshots"
 style="margin-right: 10px;"
@@ -12,7 +12,7 @@ style="margin-right: 10px;"
 --> The model is trained using different machine learning algorithms and above dataset.<br/>
 --> The model created is saved as pkl file and used for prediction.
 <img
-src="./1111.jpeg"
+src="./2222.jpeg"
 raw=true
 alt="Screenshots"
 style="margin-right: 10px;"
