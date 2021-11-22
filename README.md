@@ -20,7 +20,7 @@ style="margin-right: 10px;"
 
 
 # How to use 
-Visit the website https://gender-classifier.herokuapp.com/ to view the application. Fill the form as shown, file and select the options to get required output.
+Visit the website  https://gender--classifier.herokuapp.com/ to view the application. Fill the form as shown, file and select the options to get required output.
 
 # How to replicate
 Basic requirements- Python 3.7 or above <br/>
