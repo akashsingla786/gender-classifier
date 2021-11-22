@@ -1,5 +1,5 @@
-# Gender Detection with Flask
-Gender detection with AI and Flask.
+# Gender Classification with Flask
+Gender classification with AI and Flask.
 <img
 src="./1111.jpeg"
 raw=true
